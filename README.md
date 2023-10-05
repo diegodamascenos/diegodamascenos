@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, Pandas, Machine Learning, AWS Cloud, A.I...**
 
-- 💬 Ask me about **SQL, Excel, Power BI, Tableau and Statistic**
+- 💬 Ask me about **SQL, Excel, Power BI, Tableau, Hardware and Statistic**
 
 - 📫 How to reach me **diego.damascenoti@gmail.com**
 
