@@ -1,9 +1,9 @@
 <h1 align="center">Hi There 👋, I'm Diego Damasceno</h1>
 <h3 align="center">Do it yourself 😉</h3>
 
-- 🌱 I’m currently learning **Python, Pandas, Machine Learning, AWS Cloud, A.I...**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, React JS, NodeJS and C#**
 
-- 💬 Ask me about **SQL, Excel, Power BI, Tableau, Hardware and Statistic**
+- 💬 Ask me about **HTML, CSS, JavaScript, React JS, NodeJS, Excel and Big Data, Hardware and Computer Network **
 
 - 📫 How to reach me **diego.damascenoti@gmail.com**
 
