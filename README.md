@@ -5,7 +5,7 @@
 [![Stack OverFlow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/347627/diego-damasceno)
 
 
-![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegodamascenos&show_icons=true&theme=merko)
+![Diego GitHub stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegodamascenos_icons=true&theme=radical))
 
 ## Tecnologias:
 
