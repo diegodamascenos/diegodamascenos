@@ -3,21 +3,31 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-damascenos/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fronttego/)
 [![Stack OverFlow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/347627/diego-damasceno)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/diegodamasceno)
 
 
 ![Diego Damasceno GitHub stats](https://github-readme-stats.vercel.app/api?username=diegodamascenos&show_icons=true&theme=dark)
 
-## Tecnologias:
+## Tech Skills:
 
 <div style ="display: inline_block"><br/>
-    <img align= "center" alt ="SQL" src= https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white>
-    <img align= "center" alt ="SQL" src= https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white>
-    <img align= "center" alt ="SQL" src= https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white>
-    <img align= "center" alt ="SQL" src= https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white><br>
-    <img align= "center" alt ="SQL" src= https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white>
-    <img align= "center" alt ="SQL" src= https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>
-    <img align= "center" alt ="SQL" src= https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white>
-    <img align= "center" alt ="SQL" src= https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white>
+    <img align= "center" alt ="Pyhon" src= https://img.icons8.com/?size=50&id=13441&format=png&color=000000>
+    <img align= "center" alt ="SQL" src= https://img.icons8.com/?size=50&id=laYYF3dV0Iew&format=png&color=000000>
+    <img align= "center" alt ="PostgreSQL" src= https://img.icons8.com/?size=50&id=38561&format=png&color=000000>
+    <img align= "center" alt ="Excel" src= https://img.icons8.com/?size=50&id=117561&format=png&color=000000><br>
+    <img align= "center" alt ="Power BI" src= https://img.icons8.com/?size=50&id=qYfwpsRXEcpc&format=png&color=000000>
+    <img align= "center" alt ="JS" src= https://img.icons8.com/?size=50&id=108784&format=png&color=000000>
+    <img align= "center" alt ="HTML" src= https://img.icons8.com/?size=50&id=20909&format=png&color=000000>
+    <img align= "center" alt ="CSS" src= https://img.icons8.com/?size=50&id=21278&format=png&color=000000>
+</div>
+
+
+## Bibliotecas e Frameworks
+<div>
+    <img align= "center" alt ="Pandas" src= https://img.icons8.com/?size=50&id=xSkewUSqtErH&format=png&color=000000>
+    <img align= "center" alt ="Matplotlib" src= https://github.com/user-attachments/assets/bf202433-d354-44c0-9f9d-8de140d61b96>
+    <img align= "center" alt ="Pandas" src= https://img.icons8.com/?size=50&id=aR9CXyMagKIS&format=png&color=000000>
+    <img align= "center" alt ="Flask" src= https://img.icons8.com/?size=50&id=ewGOClUtmFX4&format=png&color=000000><br>
 </div>
 
 #
