@@ -6,8 +6,6 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/diegodamasceno)
 
 
-![Diego Damasceno GitHub stats](https://github-readme-stats.vercel.app/api?username=diegodamascenos&show_icons=true&theme=dark)
-
 ## Tech Skills:
 
 <div style ="display: inline_block"><br/>
