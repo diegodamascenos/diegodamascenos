@@ -31,6 +31,3 @@
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> </a> </p>
 </div>
 
-#
-Apaixonado por tecnologia e pela complexidade deste universo, atualmente, estou expandindo meus conhecimentos em Engenharia de Software e desenvolvendo projetos pessoais para Análise de Dados. 
-Possuo conhecimento e experiência em Active Directory, Hardware, SQL, Python/Pandas, Power BI, Git e GitHub, Excel, TOTVS Datasul/RM, Citrix, Oracle JDE, entre outras tecnologias.
