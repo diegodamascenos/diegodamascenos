@@ -20,7 +20,7 @@
 </div>
 
 
-## Bibliotecas e Frameworks
+## Libs & Frameworks
 <div>
     <img align= "center" alt ="Pandas" src= https://img.icons8.com/?size=50&id=xSkewUSqtErH&format=png&color=000000>
     <img align= "center" alt ="Matplotlib" src= https://github.com/user-attachments/assets/bf202433-d354-44c0-9f9d-8de140d61b96>
