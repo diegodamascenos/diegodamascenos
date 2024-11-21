@@ -32,8 +32,9 @@
     <img align= "center" alt ="Matplotlib" src= https://github.com/user-attachments/assets/bf202433-d354-44c0-9f9d-8de140d61b96>
     <img align= "center" alt ="Pandas" src= https://img.icons8.com/?size=50&id=aR9CXyMagKIS&format=png&color=000000>
     <img align= "center" alt ="Flask" src= https://img.icons8.com/?size=50&id=ewGOClUtmFX4&format=png&color=000000><br>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="40"/> </a>
-    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="50" height="40"/> </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> </a> </p>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="40"/</a>
+    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="50" height="40"/</a>
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/></a> 
+    <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png"alt="streamlit" width="70" height="70"/></a>
 </div>
 
