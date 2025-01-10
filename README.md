@@ -1,8 +1,8 @@
 ## I'm Diego Damasceno 🖖🏼
 
-- 🔗 <a href= 'https://github.com/diegodamascenos/Portifolio'>Portfólio: </a>Projetos pessoais desenvolvidos em Ciências e Análise de Dados.
+- 🔗 <a href= 'https://github.com/diegodamascenos/Portifolio'>Portfólio GitHub: </a>Meu portfólio no GitHub, com projetos pessoais.
+- 🔗 <a href= 'https://sites.google.com/view/diegodamasceno/diego-damasceno'>Portfólio: </a>Projetos pessoais desenvolvidos em Ciências e Análise de Dados.
 - 🔗 <a href= 'https://medium.com/@diego.damascenoti'>Artigos:</a> Artigos de tecnologia.
-- 🔗 Currículo
 - Me acompanhe pelos links abaixo 👇🏼
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-damascenos/)
