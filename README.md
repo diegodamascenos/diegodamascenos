@@ -17,12 +17,12 @@
 <div style ="display: inline_block"><br/>
     <img align= "center" alt ="Pyhon" src= https://img.icons8.com/?size=50&id=13441&format=png&color=000000>
     <img align= "center" alt ="SQL" src= https://img.icons8.com/?size=50&id=laYYF3dV0Iew&format=png&color=000000>
-    <img align= "center" alt ="PostgreSQL" src= https://img.icons8.com/?size=50&id=38561&format=png&color=000000>
+    <img align= "center" alt ="OracleDB" src= https://img.icons8.com/plasticine/75/oracle-pl-sql--v3.png>
     <img align= "center" alt ="Excel" src= https://img.icons8.com/?size=50&id=117561&format=png&color=000000><br>
     <img align= "center" alt ="Power BI" src= https://img.icons8.com/?size=50&id=qYfwpsRXEcpc&format=png&color=000000>
     <img align= "center" alt ="JS" src= https://img.icons8.com/?size=50&id=108784&format=png&color=000000>
-    <img align= "center" alt ="HTML" src= https://img.icons8.com/?size=50&id=20909&format=png&color=000000>
-    <img align= "center" alt ="CSS" src= https://img.icons8.com/?size=50&id=21278&format=png&color=000000>
+    <img align= "center" alt ="NodeJS" src= https://img.icons8.com/color/60/nodejs.png>
+    <img align= "center" alt ="Typescript" src= https://img.icons8.com/color/52/typescript.png>
 </div>
 
 
